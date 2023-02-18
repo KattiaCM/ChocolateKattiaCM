@@ -1,0 +1,84 @@
+
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border: 5px outset rgb(70, 50, 9); 
+    background-color: rgb(136, 115, 75);
+    text-align: center;   
+}
+
+header{
+    color: rgb(235, 227, 218);
+    background-color: rgb(77, 53, 10);
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    line-height: 100px;
+    border-bottom: 3px solid;
+    text-align: center;
+}
+.enlace{
+    
+    color: aliceblue;
+}
+
+
+nav{
+    float: left;
+    width: 190px;
+    padding-left: 20px;
+    background-color: rgb(126, 78, 33);
+    min-height: 550px;
+    border: 1px solid rgb(58, 38, 11);
+}
+
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 20px;
+}
+
+#contenido2{
+    text-align: justify;
+    float: left;
+    width: 68%;
+height: 65%;
+    background-color: rgb(187, 167, 113);
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid rgb(58, 38, 11);
+   
+}
+
+aside{
+    float: right;
+    width: 230px;
+    min-height: 550px;
+    background-color: rgb(126, 78, 33);
+    border: 1px solid rgb(58, 38, 11);   
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    float: inline-end;
+    margin: 0px;
+}
+
+.articulo{
+    color: rgb(24, 3, 3);
+    margin: top 15px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid rgb(61, 43, 9);
+    padding-bottom: 10px;
+}
+img{
+    width: 220px;
+    height: 200px;
+}
+.redes{
+    width: 100px;
+    height: 100px;
+}
